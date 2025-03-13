@@ -1,1 +1,1 @@
-# tkh-website-practice
+# tkh-simple-card
